@@ -17,4 +17,7 @@ This Power BI dashboard provides insights into HR data including attrition rate,
 - `HR_ANALYSIS_DASHBOARD.pbix`: Power BI report file
 
 ## 📸 Screenshot
-![Dashboard Preview](images/dashboard_screenshot.png)
+![Dashboard Preview](First_page.jpg)
+![Dashboard Preview](Second_Page.jpg)
+![Dashboard Preview](Last_Page.jpg)
+![Dashboard Preview](Last_Page_Filterbutton.jpg)
